@@ -1,5 +1,5 @@
 ---
-title: Linear Regression[java]
+title: Linear Regression
 date: 2024-03-17 18:00:00 +09:00
 categories: [cs, 기계 학습]
 ---
