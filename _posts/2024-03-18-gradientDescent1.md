@@ -1,5 +1,5 @@
 ---
-title: 기계학습 Gradient Descent(1)
+title: Gradient Descent(1)
 date: 2024-03-18 01:00:00 +09:00
 categories: [cs, 기계 학습]
 ---
